@@ -1,0 +1,11 @@
+/home/dcs/Desktop/MFDL/MFDL.Core/bin/Debug/net8.0/MFDL.Core.deps.json
+/home/dcs/Desktop/MFDL/MFDL.Core/bin/Debug/net8.0/MFDL.Core.dll
+/home/dcs/Desktop/MFDL/MFDL.Core/bin/Debug/net8.0/MFDL.Core.pdb
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.AssemblyInfoInputs.cache
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.AssemblyInfo.cs
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.csproj.CoreCompileInputs.cache
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.dll
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/refint/MFDL.Core.dll
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.pdb
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/ref/MFDL.Core.dll

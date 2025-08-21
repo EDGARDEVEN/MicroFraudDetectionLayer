@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFDL.Core", "MFDL.Core\MFDL.Core.csproj", "{A7178813-B3F1-493E-B835-B8C4710AF77E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFDL.Tools", "MFDL.Tools\MFDL.Tools.csproj", "{75A02583-9051-44AF-92EF-89D22E7E5823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7178813-B3F1-493E-B835-B8C4710AF77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7178813-B3F1-493E-B835-B8C4710AF77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7178813-B3F1-493E-B835-B8C4710AF77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7178813-B3F1-493E-B835-B8C4710AF77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A02583-9051-44AF-92EF-89D22E7E5823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A02583-9051-44AF-92EF-89D22E7E5823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A02583-9051-44AF-92EF-89D22E7E5823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A02583-9051-44AF-92EF-89D22E7E5823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
