@@ -9,3 +9,4 @@
 /home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/refint/MFDL.Core.dll
 /home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.pdb
 /home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/ref/MFDL.Core.dll
+/home/dcs/Desktop/MFDL/MFDL.Core/obj/Debug/net8.0/MFDL.Core.sourcelink.json

@@ -16,3 +16,4 @@
 /home/dcs/Desktop/MFDL/MFDL.Tools/obj/Debug/net8.0/MFDL.Tools.pdb
 /home/dcs/Desktop/MFDL/MFDL.Tools/obj/Debug/net8.0/MFDL.Tools.genruntimeconfig.cache
 /home/dcs/Desktop/MFDL/MFDL.Tools/obj/Debug/net8.0/ref/MFDL.Tools.dll
+/home/dcs/Desktop/MFDL/MFDL.Tools/obj/Debug/net8.0/MFDL.Tools.sourcelink.json
