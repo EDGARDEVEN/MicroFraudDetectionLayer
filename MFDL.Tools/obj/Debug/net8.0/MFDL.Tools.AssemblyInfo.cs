@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MFDL.Tools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c8173cda911484cc7000ebef8512f9b50f7f7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+350f4f7c0511cccf8381904984c72f1918864cd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MFDL.Tools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MFDL.Tools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

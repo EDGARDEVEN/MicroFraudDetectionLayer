@@ -1,6 +1,7 @@
 ﻿using MFDL.Core.Engine;
 using MFDL.Core.Models;
 using MFDL.Core.Rules;
+using MFDL.Core; // for AlertRepository
 
 static class Program
 {
@@ -8,7 +9,10 @@ static class Program
     {
         Console.WriteLine(" MFDL – MicroFraudDetectionEngine \n");
 
-        var engine = new FraudEngine(historyRetention: TimeSpan.FromHours(2))
+        
+        var repo = new AlertRepository();
+
+        var engine = new FraudEngine(TimeSpan.FromHours(2), "alerts.db")
             .RegisterRule(new RefundRule())
             .RegisterRule(new VelocityRule());
 
@@ -21,15 +25,17 @@ static class Program
             foreach (var alert in engine.Process(tx))
             {
                 PrintAlert(alert);
+                // alerts already saved to DB inside FraudEngine
             }
 
             await Task.Delay(50); // simulate real-time arrival
         }
 
-        Console.WriteLine("\n Analysis complete.");
+        Console.WriteLine("\n Analysis complete. Alerts saved to alerts.db");
     }
 
     /// <summary>
+    /// Generates synthetic transactions for testing
     /// </summary>
     static async IAsyncEnumerable<Transaction> GenerateMockTransactionsAsync(DateTimeOffset start, Random rng)
     {
