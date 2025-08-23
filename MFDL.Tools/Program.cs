@@ -31,7 +31,7 @@ static class Program
             await Task.Delay(50); // simulate real-time arrival
         }
 
-        Console.WriteLine("\n Analysis complete. Alerts saved to alerts.db");
+        Console.WriteLine("\n Analysis complete and stored");
     }
 
     /// <summary>
