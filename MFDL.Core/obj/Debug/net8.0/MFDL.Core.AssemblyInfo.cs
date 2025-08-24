@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MFDL.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b996d166f16ff0daa87d383c3359bf74bf157c50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c28504f90052031b707c259791d88a3c87e734")]
 [assembly: System.Reflection.AssemblyProductAttribute("MFDL.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MFDL.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
