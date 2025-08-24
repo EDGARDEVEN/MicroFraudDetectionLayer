@@ -41,6 +41,14 @@ This will run the **FraudEngine** against sample mock transactions and print sus
 
 ---
 
+### Using Docker
+You can also run the demo using [Docker](https://docs.docker.com/desktop/):
+```bash
+docker build -t mfdldemo:latest .
+docker run --rm mfdldemo
+```
+---
+
 ## Example Output
 ```
 [ALERT] Refund transaction T1003 flagged: suspicious refund detected!
@@ -90,4 +98,4 @@ public class GeoLocationRule : IFraudRule
 
 ## Author
 Developed by **Deven Cybersecurity Services (DCS)**  
-For more information, email me at (mailto:edgardeven303@gmail.com)
+For more information, email me at [edgardeven303@gmail.com](mailto:edgardeven303@gmail.com).
