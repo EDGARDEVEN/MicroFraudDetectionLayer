@@ -4,7 +4,7 @@
 The Micro Fraud Detection Layer (MFDL) is a lightweight, pluggable fraud detection engine written in **C# (.NET 8)**.  
 It is designed to be integrated into business systems such as **POS terminals, e-commerce platforms, banking systems, or mobile money applications** as a **real-time rule-based microservice**.
 
-Instead of being a large monolithic fraud system, MFDL acts as a **middleware layer** between transaction flows and business logic — quietly scanning transactions, applying detection rules, and raising alerts when suspicious behavior is found.
+Instead of being a large monolithic fraud system, MFDL acts as a **middleware layer** between transaction flows and business logic - quietly scanning transactions, applying detection rules, and raising alerts when suspicious behavior is found.
 
 ---
 
